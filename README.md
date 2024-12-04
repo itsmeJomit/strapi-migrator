@@ -1,2 +1,3 @@
-# strapi-migrator
-Migrator Plugin to import data from one server to another strapi application
+# Strapi plugin migrator
+
+A quick description of migrator.
